@@ -5,7 +5,7 @@ let comida = "";
 let fruta = [];
 let inicio = [];
 let aux_controle = [];
-let aux_controle2 = "";  // uma variável auxiliar para a de controle
+let aux_controle2 = "";  // uma variável auxiliar para a variavel de controle
 let resposta = "";
 let aux_comida = 0;
 
